@@ -1,0 +1,109 @@
+ul.social li{
+    list-style: none;
+    display: inline;
+}
+
+body {
+    background-color: rgb(158, 204, 204);
+}
+#navbar{
+    border-radius: 5px;
+    padding: 20px;
+    background-color: rgb(85, 128, 128);
+
+    -webkit-box-shadow: 5px 0px 20px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 0px 20px 5px rgba(0,0,0,0.75);
+    box-shadow: 5px 0px 20px 5px rgba(0,0,0,0.75);
+}
+
+.contact {
+    display: flex;
+    justify-content: flex-end;
+    width: auto;
+    float: left;
+}
+.social {
+    display: flex;
+    justify-content: flex-start;
+    width: auto;
+    float: right;
+}
+
+.contact-name,.contact-phone,.contact-email{
+    list-style-type: none;
+}
+
+div#navbar input, div#navbar label {
+    display: inline;
+}
+div#navbar label {
+    margin-left: 6vh;
+}
+
+div#navbar input {
+    margin-right: 6vh;
+}
+
+
+
+.ramka-1 {
+    border: solid rgb(85, 128, 128) 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 5px 0px 20px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 0px 20px 5px rgba(0,0,0,0.75);
+    box-shadow: 5px 0px 20px 5px rgba(0,0,0,0.75);
+
+}
+
+.ramka-2 {
+    border: solid rgb(204, 174, 157) 5px;
+    border-radius: 5px;
+    background-color: rgb(222, 255, 255);
+    padding: 20px;
+}
+
+h3, h4 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+.space {
+    height: 100px;
+}
+
+.space-2 {
+    height: 30px;
+}
+
+.opis {
+    font-family: 'Galada', cursive;
+    text-align: justify;
+}
+#opis {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+ 
+.picture {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+.title {
+    text-shadow: 1px 2px 5px rgba(0,0,0,1);
+}
+
+.title-2 {
+    text-shadow: 1px 2px 4px rgba(0,0,0,1); 
+}
