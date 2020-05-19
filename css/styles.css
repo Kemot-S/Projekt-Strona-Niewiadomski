@@ -41,9 +41,8 @@ div#navbar label {
 }
 
 div#navbar input {
-    margin-right: 6vh;
+    margin-right: 7vh;
 }
-
 
 
 .ramka-1 {
@@ -106,4 +105,8 @@ h1 {
 
 .title-2 {
     text-shadow: 1px 2px 4px rgba(0,0,0,1); 
+}
+
+div {
+    border: solid black 1px;
 }
