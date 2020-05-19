@@ -8,7 +8,7 @@ body {
 }
 #navbar{
     border-radius: 5px;
-    padding: 15px;
+    padding: 30px;
     background-color: rgb(85, 128, 128);
 
     -webkit-box-shadow: 5px 0px 20px 5px rgba(0,0,0,0.75);
@@ -40,7 +40,7 @@ div#navbar input, div#navbar label {
 .nav {
     max-width: 30vh;
     display: inline;
-    margin: 2vh;
+    margin: 5vh;
 }
 
 .ramka-1 {
